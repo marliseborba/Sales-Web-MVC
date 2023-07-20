@@ -1,7 +1,11 @@
 ﻿@model IEnumerable<SalesWebMvc.Models.Department>
 
 @{
+    ViewData["Title"] = "Index";
 }
+
+<h2>Index</h2>
+
 <p>
     <a asp-action="Create">Create New</a>
 </p>
@@ -9,11 +13,9 @@
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.Id)
-            </th>
-            <th>
                 @Html.DisplayNameFor(model => model.Name)
             </th>
+            <th></th>
         </tr>
     </thead>
     <tbody>
