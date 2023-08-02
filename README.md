@@ -38,3 +38,15 @@ Operações CRUD
 ### Descrição
 O projeto consiste em uma aplicação Web que gerencia Vendedores, Departamentos e Vendas. Inclui todas as operações CRUD e formulários para busca de registros por data.
 
+#### Tela listando Vendedores
+<img src="https://github.com/marliseborba/img/blob/main/asp-net-project.png?raw=true"/>
+
+#### Tela para cadastrar Vendedor
+<img src="https://github.com/marliseborba/img/blob/main/asp-net-project-add-seller.png?raw=true"/>
+
+#### Tela para buscar Vendas de forma Simples ou Agrupada
+<img src="https://github.com/marliseborba/img/blob/main/asp-net-project-sales-search.png?raw=true"/>
+
+#### Tela com resultados da busca por vendas Agrupada
+<img src="https://github.com/marliseborba/img/blob/main/asp-net-project-grouping-sales-search.png?raw=true"/>
+
