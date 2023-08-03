@@ -1,7 +1,14 @@
-## Projeto ASP .NET Core MVC
+# Projeto ASP .NET Core MVC #
 Este projeto pertence ao curso C# Completo e foi desenvolvido juntamente com o instrutor durante as aulas.
 
-### Tecnologias e Conceitos:
+<br/>
+
+## Descrição
+O projeto consiste em uma aplicação Web com operações CRUD para gerenciar Vendedores, Departamentos e Vendas. Inclui formulários para busca de registros por data.
+
+<br/>
+
+## Tecnologias e Conceitos:
 <ul>
 <li>
   Orientação a Objetos
@@ -35,18 +42,22 @@ Operações CRUD
 </li>
 </ul>
 
-### Descrição
-O projeto consiste em uma aplicação Web que gerencia Vendedores, Departamentos e Vendas. Inclui todas as operações CRUD e formulários para busca de registros por data.
+<br/>
 
-#### Tela listando Vendedores
+## Screenshots
+
+### Tela listando Vendedores
 <img src="https://github.com/marliseborba/img/blob/main/asp-net-project.png?raw=true"/>
+<br/>
 
-#### Tela para cadastrar Vendedor
+### Tela para cadastrar Vendedor
 <img src="https://github.com/marliseborba/img/blob/main/asp-net-project-add-seller.png?raw=true"/>
+<br/>
 
-#### Tela para buscar Vendas de forma Simples ou Agrupada
+### Tela para buscar Vendas de forma Simples ou Agrupada
 <img src="https://github.com/marliseborba/img/blob/main/asp-net-project-sales-search.png?raw=true"/>
+</br>
 
-#### Tela com resultados da busca por vendas Agrupada
+### Tela com resultados da busca por vendas Agrupada
 <img src="https://github.com/marliseborba/img/blob/main/asp-net-project-grouping-sales-search.png?raw=true"/>
 
