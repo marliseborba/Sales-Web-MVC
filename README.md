@@ -47,17 +47,21 @@ Operações CRUD
 ## Screenshots
 
 ### Tela listando Vendedores
-<img src="https://github.com/marliseborba/img/blob/main/asp-net-project.png?raw=true"/>
+<img src="https://github.com/marliseborba/img/blob/main/asp-net-project-sellers.png?raw=true"/>
 <br/>
 
 ### Tela para cadastrar Vendedor
 <img src="https://github.com/marliseborba/img/blob/main/asp-net-project-add-seller.png?raw=true"/>
 <br/>
 
-### Tela para buscar Vendas de forma Simples ou Agrupada
-<img src="https://github.com/marliseborba/img/blob/main/asp-net-project-sales-search.png?raw=true"/>
+### Tela para buscar vendas de forma Simples ou Agrupada
+<img src="https://github.com/marliseborba/img/blob/main/asp-net-project-search.png?raw=true"/>
+</br>
+
+### Tela com resultados da busca por vendas Simples
+<img src="https://github.com/marliseborba/img/blob/main/asp-net-project-simple-search.png?raw=true"/>
 </br>
 
 ### Tela com resultados da busca por vendas Agrupada
-<img src="https://github.com/marliseborba/img/blob/main/asp-net-project-grouping-sales-search.png?raw=true"/>
+<img src="https://github.com/marliseborba/img/blob/main/asp-net-project-grouping-search.png?raw=true"/>
 
